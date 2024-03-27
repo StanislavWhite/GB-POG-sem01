@@ -1,0 +1,14 @@
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.AssemblyInfoInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.AssemblyInfo.cs
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\bin\Debug\net8.0\PogruzjenueEp01.exe
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\bin\Debug\net8.0\PogruzjenueEp01.deps.json
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\bin\Debug\net8.0\PogruzjenueEp01.runtimeconfig.json
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\bin\Debug\net8.0\PogruzjenueEp01.dll
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\bin\Debug\net8.0\PogruzjenueEp01.pdb
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.dll
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\refint\PogruzjenueEp01.dll
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.pdb
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\PogruzjenueEp01.genruntimeconfig.cache
+C:\Users\Stanislav\Desktop\C#\Book\PogruzjenueEp01\PogruzjenueEp01\obj\Debug\net8.0\ref\PogruzjenueEp01.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PogruzjenueEp01/1.0.0": {
+        "runtime": {
+          "PogruzjenueEp01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PogruzjenueEp01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
